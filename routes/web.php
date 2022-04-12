@@ -19,9 +19,9 @@ use App\Http\Controllers\home;
 Auth::routes();
 
 Route::get('/', [App\Http\Controllers\Home::class,'index'])->name('home');
-Route::get('about', [App\Http\Controllers\About::class,'index'])->name('abouts');
-Route::get('resume', [App\Http\Controllers\Resume::class,'index'])->name('resumes');
-Route::get('skill', [App\Http\Controllers\Skill::class,'index'])->name('skills');
-Route::get('portolio', [App\Http\Controllers\Portofolio::class,'index'])->name('portofolios');
-Route::get('contact', [App\Http\Controllers\Contact::class,'index'])->name('contacts');
-Route::post('contact', [App\Http\Controllers\Contact::class,'sendMail']);
+Route::get('about', [App\Http\Controllers\about::class,'index'])->name('abouts');
+Route::get('resume', [App\Http\Controllers\resume::class,'index'])->name('resumes');
+Route::get('skill', [App\Http\Controllers\skill::class,'index'])->name('skills');
+Route::get('portolio', [App\Http\Controllers\portofolio::class,'index'])->name('portofolios');
+Route::get('contact', [App\Http\Controllers\contact::class,'index'])->name('contacts');
+Route::post('contact', [App\Http\Controllers\contact::class,'sendMail']);

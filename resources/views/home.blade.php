@@ -4,12 +4,8 @@
   Home | Mahesa Putra
  @stop
 
-@section('content')
-
-	<div id="page">	
-
-      
-            <header id="fh5co-header" class="fh5co-cover js-fullheight" role="banner" style="background-image:url(images/cover_bg_3.jpg);" data-stellar-background-ratio="0.5">
+@section('content')     
+            <div id="fh5co-header" class="fh5co-cover js-fullheight" role="banner" style="background-image:url(images/cover_bg_3.jpg);" data-stellar-background-ratio="0.5">
                 <div class="overlay"></div>
                 <div class="container">
                     <div class="row">
@@ -33,15 +29,6 @@
                         </div>
                     </div>
                 </div>
-            </header>
+            </div>
        
-         
-                
-
-	
-	</div>
-	
-	
-
-
 @endsection

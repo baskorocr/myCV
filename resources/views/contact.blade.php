@@ -22,8 +22,6 @@
                     <input class="form-control" type="text" name="name" placeholder="you name" />
                 </div>
             </div>
-            
-
             <div class="row form-group">
                 <div class="col-md-12">
                     <input class="form-control" type="email" name="email" placeholder="you email address" />

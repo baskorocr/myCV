@@ -89,6 +89,10 @@
     margin-bottom: 1rem;
     font-style: normal;
     line-height: inherit; }
+
+ header{
+    height: 100%;
+  }
   
   ol,
   ul,

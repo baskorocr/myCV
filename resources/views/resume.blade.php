@@ -200,6 +200,7 @@ Resume
                                 </div>
                             </div>
                         </li>
+                        
                         <li class="animate-box timeline-unverted">
                             <div class="timeline-badge"><i class="icon-suitcase"></i></div>
                             <div class="timeline-panel">
@@ -214,7 +215,7 @@ Resume
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
                                     <h3 class="timeline-title"> Microcontroller Practical Assistant</h3>
-                                    <span class="company">Amikom University - 2021  </span>
+                                    <span class="company">Amikom University - 2021-2023  </span>
                                 </div>
                             </div>
                         </li>
@@ -232,10 +233,31 @@ Resume
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
                                     <h3 class="timeline-title"> Assistant Forum Vice Chair</h3>
-                                    <span class="company">Amikom University - 2021 - Now  </span>
+                                    <span class="company">Amikom University - 2021 - 2023  </span>
                                 </div>
                             </div>
                         </li>
+                        <li class="animate-box timeline-unverted">
+                            <div class="timeline-badge"><i class="icon-suitcase"></i></div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h3 class="timeline-title"> 
+                                    Kedaireka Internship at Culturobio (Testing Hardware IoT)</h3>
+                                    <span class="company">Amikom University - 2022  </span>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="animate-box timeline-inverted">
+                            <div class="timeline-badge"><i class="icon-suitcase"></i></div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h3 class="timeline-title"> 
+                                    2nd Winner of the 2022 Innovation and Research Award, Yogyakarta City</h3>
+                                    <span class="company">Yogyakarta - 2022  </span>
+                                </div>
+                            </div>
+                        </li>
+                        
                         
 
                         <br>
@@ -309,7 +331,7 @@ Resume
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
                                     <h3 class="timeline-title"> Assistant Forum</h3>
-                                    <span class="company">Amikom University - 2020 - NOW</span>
+                                    <span class="company">Amikom University - 2020 - 2023</span>
                                 </div>
                             </div>
                         </li>
